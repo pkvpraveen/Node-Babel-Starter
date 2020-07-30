@@ -1,0 +1,1 @@
+export const test = (msg) => console.log(msg);
